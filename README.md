@@ -22,3 +22,6 @@ Pour déployer ce projet sur votre serveur d'application, suivez les étapes sui
 4. Exportez le projet en tant qu'archive WAR
 5. Déployez l'archive sur votre serveur d'application en suivant les instructions de votre serveur
 6. Ouvrez votre navigateur et accédez à l'application en entrant l'URL suivante : http://localhost:8086/test
+# Auteur
+Ce projet a été réalisé par BELHAJ Soukaina , HADNAMOUS Maroua , GUIDALI Widad 
+
